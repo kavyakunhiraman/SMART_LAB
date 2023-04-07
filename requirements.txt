@@ -1,0 +1,5 @@
+flask
+imutils
+numpy
+opencv-python
+dbconnection
